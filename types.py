@@ -1,9 +1,7 @@
+# TYPES
 nom = "Tsipora"
-
 age = 25
-
 taille = 1.70
-
 etudiante = True
 
 print(nom)
@@ -15,3 +13,6 @@ print(type(nom))
 print(type(age))
 print(type(taille))
 print(type(etudiante))
+
+
+
