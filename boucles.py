@@ -12,3 +12,13 @@ compteur = 0
 while compteur < 5:
     print(compteur)
     compteur += 1
+
+#continue sert à arrêter l'itération actuelle d'une boucle et passer directement à l'itération suivante.
+while True:
+    nombre = int(input("Donne un nombre positif : "))
+
+    if nombre < 0:
+        print("Nombre invalide")
+        continue
+
+    print("Ton nombre est :", nombre)

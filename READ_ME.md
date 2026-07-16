@@ -1,2 +1,1 @@
-APPROFONDIR LES EXCEPTIONS
-jour 2 exo 5 exceptions
+POO PYTHON
