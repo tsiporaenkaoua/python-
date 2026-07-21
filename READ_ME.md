@@ -16,3 +16,4 @@
 
 
 APPROFONDIR LES LOGS
+property / getter / setter
