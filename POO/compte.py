@@ -24,6 +24,7 @@ class Compte :
         self.solde += montant
         return self.solde
     
+    
     def __str__(self):
         return f"proprietaire = {self.proprietaire} , solde = {self.solde}"
   
