@@ -1,3 +1,5 @@
+##########   GIT
+
 Gestion de git lorsqu'on travaille seul sur 2 ordis :
     CREER MON REPO:
         git init
@@ -21,3 +23,10 @@ Gestion de git lorsqu'on travaille seul sur 2 ordis :
         git add .
         git commit -m "Ajout de fonctionnalité X"
         git push
+
+
+######### LIGNE DE COMMANDE
+
+cd .. revenir dans le dossier parent
+cd "dossier" alles dans un dossier enfant
+dir "dossier" voir ce que le dossier contient
