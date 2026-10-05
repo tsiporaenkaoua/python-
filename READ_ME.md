@@ -15,13 +15,17 @@
 15.Mini Projet 3
 16.breakpoint 
 17.imports
+18. Lecture Eccriture JSON
+19. environnement virtuel
 
 
 APPROFONDIR LES LOGS
 property / getter / setter
 
 
-
+BONNES PRATIQUES PYTHON
+utiliser pathlib pour les chemins
+utilisation de venv
 
     
 
