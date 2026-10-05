@@ -30,14 +30,22 @@ print(type(coordonnees))
     #les clés sont uniques
     # accés aux valeurs grace aux clés et non à l'indice
     #trés utilisé pour représenter un objet
-utilisateur = {
+utilisateurs = [
+    {
     "nom": "Léa",
     "age": 25,
     "ville": "Paris"
-}
-print(utilisateur)
-print(utilisateur["nom"])
-print(type(utilisateur))
+    },
+    {
+    "nom": "Anna",
+    "age": 25,
+    "ville": "Marseille"
+    }
+]        
+
+print(utilisateurs[0])
+print(utilisateurs[0]["nom"])
+print(type(utilisateurs))
 
 
 
