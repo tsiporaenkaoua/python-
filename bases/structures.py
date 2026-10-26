@@ -30,6 +30,13 @@ print(type(coordonnees))
     #les clés sont uniques
     # accés aux valeurs grace aux clés et non à l'indice
     #trés utilisé pour représenter un objet
+ {
+    "nom": "Léa",
+    "age": 25,
+    "ville": "Paris"
+    }
+
+Liste de dictionnaire = collection :
 utilisateurs = [
     {
     "nom": "Léa",
