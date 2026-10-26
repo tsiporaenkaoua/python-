@@ -36,7 +36,7 @@ print(type(coordonnees))
     "ville": "Paris"
     }
 
-Liste de dictionnaire = collection :
+#Liste de dictionnaire = collection :
 utilisateurs = [
     {
     "nom": "Léa",
